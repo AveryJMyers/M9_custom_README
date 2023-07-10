@@ -80,7 +80,10 @@ function generateMarkdown(data) {
 ## Credits\n${data.credits}\n
 ${licenseSection}
 ## License\n${licenseBadge}\n
-## Features\n${data.features}\n`;
+## Features\n${data.features}\n
+## Tests \n${data.tests}\n
+## Questions \n If you have further questions you can reach me at ${data.email} or visit my GitHub profile at github.com/${data.github}.\n`
+;
 }
 
 
