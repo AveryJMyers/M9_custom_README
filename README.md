@@ -22,6 +22,8 @@ This project was created to create custom READMEs using Node.JS
     2. Fill out the prompts
     3. Review your new README!
 
+    video guide: https://drive.google.com/file/d/1WfAHhGA_X4RMovPeCNvCQB4ckta1VqGJ/view
+
 ## Credits
     1. Starter code provided by UCB Full Stack Bootcamp.
     2. Markdown license badges provided by lukas-h (https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
