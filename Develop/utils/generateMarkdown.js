@@ -74,7 +74,7 @@ function generateMarkdown(data) {
 
   return `# ${data.title}\n
 ## Description\n${data.description}\n
-## Table of Contents \n * [Installation](#installation) \n * [Usage](#usage) \n * [Credits](#credits) \n * [License](#license) \n * [Features](#features) \n
+## Table of Contents \n * [Installation](#installation) \n * [Usage](#usage) \n * [Credits](#credits) \n * [License](#license) \n * [Features](#features) \n * [Tests](#tests) \n * [Questions](#questions)\n
 ## Installation\n${data.installation}\n
 ## Usage\n${data.usage}\n
 ## Credits\n${data.credits}\n
