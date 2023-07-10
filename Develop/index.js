@@ -54,8 +54,10 @@ function init() {
             name: 'credits'
         },
         {
+            type: 'list',
             message: questions[5],
-            name: 'license'
+            name: 'license',
+            choices: ['NONE','Apache 2.0', 'Boost 1.0', 'BSD 3-Clause', 'BSD 2-Clause', 'CC0', 'Eclipse', 'GNU GPL v3', 'MIT', 'Mozilla']
         },
         {
             message: questions[6],
